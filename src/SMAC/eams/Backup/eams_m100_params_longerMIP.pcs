@@ -1,0 +1,3 @@
+MIP_TIMELIMIT_SEC 			[10, 60]  	[10]
+LNS_DESTROY_2_PCT			[0, 1]		[0.33]
+LNS_DESTROY_3_PCT			[0, 1]		[0.33]

@@ -1,0 +1,10 @@
+use-instances = true
+runObj = QUALITY
+deterministic = 0
+numberOfRunsLimit = 500 
+pcs-file = eams/eams_params.pcs
+algo = python run_smac_dr.py m200_lns
+instance_file = Input/eams_run_smac_m200.cfg
+test_instance_file = Input/eams_run_smac_test_m200.cfg
+feature_file = SMAC/eams/eams_run_smac_features_m200
+

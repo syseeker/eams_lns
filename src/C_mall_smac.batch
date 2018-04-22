@@ -1,0 +1,4 @@
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario.txt --shared-model-mode true --seed 1000000
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario.txt --shared-model-mode true --seed 100001
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario.txt --shared-model-mode true --seed 10002
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario.txt --shared-model-mode true --seed 1003

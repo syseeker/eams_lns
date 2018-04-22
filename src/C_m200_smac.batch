@@ -1,0 +1,2 @@
+SMAC/smac --scenario-file SMAC/eams/eams-scenario-m200.txt --shared-model-mode true --seed 2002001
+SMAC/smac --scenario-file SMAC/eams/eams-scenario-m200.txt --shared-model-mode true --seed 2002002

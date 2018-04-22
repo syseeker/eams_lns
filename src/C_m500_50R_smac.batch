@@ -1,0 +1,2 @@
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario-m500-50R.txt --shared-model-mode true --seed 5005001
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario-m500-50R.txt --shared-model-mode true --seed 5005002

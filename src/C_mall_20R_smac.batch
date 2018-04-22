@@ -1,0 +1,4 @@
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario-20R.txt --shared-model-mode true --seed 2000000
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario-20R.txt --shared-model-mode true --seed 200001
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario-20R.txt --shared-model-mode true --seed 20002
+ SMAC/smac --scenario-file SMAC/eams/eams-scenario-20R.txt --shared-model-mode true --seed 2003
